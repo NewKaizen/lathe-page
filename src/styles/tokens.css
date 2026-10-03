@@ -1,0 +1,30 @@
+:root {
+  --background: #ffffff;
+  --foreground: #161616;
+  --card: #f4f4f4;
+  --primary: #0f62fe;
+  --primary-hover: #0043ce;
+  --border: #e0e0e0;
+  --text-secondary: #525252;
+  --text-helper: #6f6f6f;
+  --blue-light: #edf5ff;
+  --blue-border: #a6c8ff;
+  --status-green: #24a148;
+  --radius: 0;
+  --elevation: none;
+  --font-sans: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: 'IBM Plex Mono', Menlo, monospace;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+  --space-24: 96px;
+  --content-width: 1280px;
+  --header-height: 80px;
+}

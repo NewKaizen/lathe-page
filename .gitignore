@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.angular/
+test-results/
+playwright-report/
+*.log
+.playwright/
+coverage/
+*.local
+*.env
+*.env.*

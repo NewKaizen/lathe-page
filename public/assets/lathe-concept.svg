@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" fill="none">
+<title>Representação conceitual do torno convencional</title>
+<desc>Ilustração vetorial estática baseada nos conjuntos geométricos do protótipo. Não é desenho técnico nem modelo do equipamento real.</desc>
+<g stroke="#a6c8ff" stroke-width="1"><path d="M25 295L323 145L585 278M25 325L323 175L585 308M25 355L323 205L585 338M65 235L360 384M125 205L420 354M185 175L480 324M245 145L540 294" stroke-dasharray="3 6"/></g>
+<!-- Pés e barramento: superfícies retas e camadas da paleta Carbon. -->
+<path d="M110 266L165 237L183 334L131 361Z" fill="#a6c8ff" stroke="#0043ce"/>
+<path d="M131 361L183 334L215 350L163 378Z" fill="#78a9ff" stroke="#0043ce"/>
+<path d="M110 266L141 282L163 378L131 361Z" fill="#0f62fe" stroke="#0043ce"/>
+<path d="M409 264L455 240L475 322L431 345Z" fill="#a6c8ff" stroke="#0043ce"/>
+<path d="M431 345L475 322L503 336L459 360Z" fill="#78a9ff" stroke="#0043ce"/>
+<path d="M409 264L437 278L459 360L431 345Z" fill="#0f62fe" stroke="#0043ce"/>
+<path d="M88 235L354 98L519 182L252 322Z" fill="#d0e2ff" stroke="#0043ce" stroke-width="1.5"/>
+<path d="M88 235V262L252 349V322Z" fill="#78a9ff" stroke="#0043ce" stroke-width="1.5"/>
+<path d="M252 322L519 182V209L252 349Z" fill="#a6c8ff" stroke="#0043ce" stroke-width="1.5"/>
+<path d="M160 244L422 110L441 120L180 254Z" fill="#f4f4f4" stroke="#0043ce"/>
+<path d="M207 268L470 134L488 144L225 278Z" fill="#fff" stroke="#0043ce"/>
+<path d="M180 254V263L441 129V120M225 278V287L488 153V144" stroke="#0043ce"/>
+<!-- Cabeçote -->
+<path d="M89 138L175 94L261 139L175 184Z" fill="#d0e2ff" stroke="#0043ce" stroke-width="1.5"/>
+<path d="M89 138V235L175 280V184Z" fill="#0f62fe" stroke="#0043ce" stroke-width="1.5"/>
+<path d="M175 184L261 139V235L175 280Z" fill="#78a9ff" stroke="#0043ce" stroke-width="1.5"/>
+<path d="M102 160L155 188V217L102 189Z" fill="#0043ce"/>
+<path d="M111 174L139 189M111 181L133 193" stroke="#a6c8ff" stroke-width="2"/>
+<circle cx="118" cy="209" r="6" fill="#d0e2ff"/><circle cx="143" cy="222" r="6" fill="#d0e2ff"/>
+<!-- Mandril e peça em perspectiva -->
+<path d="M215 174L239 160L265 203L240 216Z" fill="#525252" stroke="#161616"/>
+<ellipse cx="239" cy="189" rx="22" ry="32" transform="rotate(-28 239 189)" fill="#c6c6c6" stroke="#525252" stroke-width="2"/>
+<ellipse cx="247" cy="185" rx="19" ry="29" transform="rotate(-28 247 185)" fill="#e0e0e0" stroke="#525252"/>
+<path d="M251 174L372 113L385 137L264 199Z" fill="#c6c6c6" stroke="#525252"/>
+<path d="M252 179L375 119" stroke="#fff" stroke-width="3"/>
+<ellipse cx="379" cy="125" rx="8" ry="14" transform="rotate(-28 379 125)" fill="#f4f4f4" stroke="#525252"/>
+<path d="M235 162L241 173M256 204L260 213M228 193L237 189" stroke="#525252" stroke-width="4"/>
+<!-- Carro e torre de ferramenta -->
+<path d="M271 208L329 178L380 204L322 235Z" fill="#f4f4f4" stroke="#0043ce"/>
+<path d="M271 208V236L322 263V235Z" fill="#a6c8ff" stroke="#0043ce"/>
+<path d="M322 235L380 204V232L322 263Z" fill="#78a9ff" stroke="#0043ce"/>
+<path d="M292 174L324 158L353 173L321 190Z" fill="#d0e2ff" stroke="#0043ce"/>
+<path d="M292 174V202L321 218V190Z" fill="#0f62fe" stroke="#0043ce"/>
+<path d="M321 190L353 173V201L321 218Z" fill="#a6c8ff" stroke="#0043ce"/>
+<path d="M306 153L322 145L337 153L321 162Z" fill="#525252" stroke="#161616"/>
+<path d="M306 153V171L321 179V162L337 153V171L321 179" fill="#8d8d8d" stroke="#161616"/>
+<path d="M322 145V129" stroke="#161616" stroke-width="3"/>
+<ellipse cx="331" cy="245" rx="14" ry="18" transform="rotate(22 331 245)" fill="#e0e0e0" stroke="#525252" stroke-width="2"/>
+<path d="M331 227V263M318 240L344 250" stroke="#525252" stroke-width="2"/>
+<!-- Contraponto -->
+<path d="M390 133L440 107L484 129L434 156Z" fill="#d0e2ff" stroke="#0043ce" stroke-width="1.5"/>
+<path d="M390 133V184L434 207V156Z" fill="#0f62fe" stroke="#0043ce" stroke-width="1.5"/>
+<path d="M434 156L484 129V180L434 207Z" fill="#78a9ff" stroke="#0043ce" stroke-width="1.5"/>
+<path d="M380 124L401 113L407 127L386 138Z" fill="#c6c6c6" stroke="#525252"/>
+<path d="M478 146L501 134" stroke="#525252" stroke-width="3"/>
+<ellipse cx="503" cy="134" rx="12" ry="17" transform="rotate(28 503 134)" fill="#e0e0e0" stroke="#525252" stroke-width="2"/>
+<path d="M503 117V151M493 128L514 140" stroke="#525252" stroke-width="2"/>
+<path d="M260 328L513 195" stroke="#525252" stroke-width="3"/>
+<g fill="#0f62fe"><circle cx="140" cy="143" r="4"/><circle cx="306" cy="218" r="4"/><circle cx="452" cy="130" r="4"/></g>
+<g stroke="#0f62fe"><circle cx="140" cy="143" r="10"/><circle cx="306" cy="218" r="10"/><circle cx="452" cy="130" r="10"/></g>
+</svg>
